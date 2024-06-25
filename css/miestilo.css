@@ -1,0 +1,9 @@
+.container{
+    background: grey;
+}
+.navbar .navbar-expand-lg{
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
